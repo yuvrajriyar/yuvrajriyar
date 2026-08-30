@@ -30,7 +30,7 @@ Worked with Sadia Fathima, Ben Faigon, Robert Zhu, and Yongxin Du to analyse mor
 
 The Random Forest model achieved 88.3% accuracy and a 0.956 ROC-AUC.
 
-**Technology:** Python, Pandas, scikit-learn, XGBoost, data visualisation
+**Technology:** R, tidyverse, caret, randomForest, XGBoost, ggplot2
 
 ## Current focus
 
