@@ -24,7 +24,7 @@ Built an internal analytics application that consolidates transportation operati
 
 ## Academic projects
 
-### [NBA Injury Risk Analysis](https://github.com/sluggysadi/STA-141A-NBA-INJURIES)
+### [NBA Injury Risk Analysis](https://github.com/yuvrajriyar/STA-141A-NBA-INJURIES)
 
 Worked with Sadia Fathima, Ben Faigon, Robert Zhu, and Yongxin Du to analyse more than 11,000 NBA player-season records and 26 features. Our team examined historical injury patterns and compared Logistic Regression, Random Forest, and XGBoost models for injury-risk prediction.
 
