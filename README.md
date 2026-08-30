@@ -13,6 +13,7 @@ My work spans collegiate athletics, transportation operations, financial analysi
 Contributed to a full-stack analytics platform built for UC Davis Football, helping staff explore performance information through clear dashboards and player-level comparisons.
 
 **Contributions:** Project coordination, data visualisation, data workflows, validation, and front-end development
+
 **Technology:** React, Vite, Supabase, PostgreSQL, Chart.js, Recharts
 
 ### R.E.I. Dispatch Command Centre
