@@ -2,57 +2,48 @@
 
 **Data & Business Analytics | Applied Statistics | Operational Decision Systems**
 
-I am a UC Davis graduate with a B.S. in Applied Statistics and a minor in Managerial Economics. I build analytical tools that turn operational, financial, and performance data into practical decisions.
+I am a UC Davis Applied Statistics graduate and an impact-driven self-starter who enjoys turning complex information into practical decisions. My background spans sports analytics, transportation operations, financial analysis, and data-driven application development.
 
-My work spans collegiate athletics, transportation operations, financial analysis, and data-driven application development.
+[**View my portfolio →**](https://yuvrajriyar.vercel.app)
 
 ## Featured work
 
-### [ProTech Athlete Performance Platform](https://github.com/AggieSportsAnalytics/ProTech)
+### [ProTech — Athlete Performance Platform](https://github.com/AggieSportsAnalytics/ProTech)
 
-Contributed to a full-stack analytics platform built for UC Davis Football, helping staff explore performance information through clear dashboards and player-level comparisons.
+Helped build and present an athlete-performance platform for UC Davis Football. I contributed to project coordination, data workflows, validation, visualization, and front-end development.
 
-**Contributions:** Project coordination, data visualisation, data workflows, validation, and front-end development
-
-**Technology:** React, Vite, Supabase, PostgreSQL, Chart.js, Recharts
-
-### R.E.I. Dispatch Command Centre
-
-Built an internal analytics application that consolidates transportation operations information and supports faster, more consistent planning decisions.
-
-**Technology:** Python, Streamlit, SQLite, Pandas
-
-## Academic projects
+**Tools:** React, Vite, Supabase, PostgreSQL, Chart.js, Recharts
 
 ### [NBA Injury Risk Analysis](https://github.com/yuvrajriyar/STA-141A-NBA-INJURIES)
 
-Worked with Sadia Fathima, Ben Faigon, Robert Zhu, and Yongxin Du to analyse more than 11,000 NBA player-season records and 26 features. Our team examined historical injury patterns and compared Logistic Regression, Random Forest, and XGBoost models for injury-risk prediction.
+Collaborated on an analysis of more than 11,000 NBA player-season records and 26 features. We compared Logistic Regression, Random Forest, and XGBoost models to study historical injury patterns and predict injury risk.
 
-The Random Forest model achieved 88.3% accuracy and a 0.956 ROC-AUC.
+**Tools:** R, tidyverse, caret, randomForest, XGBoost, ggplot2
 
-**Technology:** R, tidyverse, caret, randomForest, XGBoost, ggplot2
+### Soaring Roadlines Dispatch System
 
-## Current focus
+Built an internal analytics application that consolidates transportation operations data and supports faster, more consistent planning decisions.
 
-* Building an end-to-end financial reconciliation data pipeline
-* Deepening my SQL, ETL, orchestration, and data-quality testing skills
-* Completing data-transformation challenges with Prophecy and Alteryx
-* Developing reusable projects with clear documentation and practical business value
+**Tools:** Python, Streamlit, SQLite, Pandas
+
+### Financial Data Pipeline — In Development
+
+Developing an end-to-end reconciliation pipeline while strengthening my work in SQL, ETL, orchestration, and data-quality testing.
 
 ## Technical toolkit
 
-| Area          | Tools                                          |
-| ------------- | ---------------------------------------------- |
-| Analysis      | SQL, Python, R, Excel, Alteryx                 |
-| Data systems  | PostgreSQL, Supabase, SQLite, Pandas           |
-| Visualisation | Tableau, ggplot2, Chart.js, Recharts           |
-| Applications  | Streamlit, React, Vite                         |
-| Modelling     | scikit-learn, regression, time-series analysis |
+| Area | Tools |
+| --- | --- |
+| Analytics | Python, R, SQL, Excel, Alteryx |
+| Data | PostgreSQL, Supabase, SQLite, Pandas, MongoDB |
+| Visualization | Power BI, Tableau, ggplot2, Chart.js, Recharts |
+| Applications | React, Vite, Streamlit |
+| Design & collaboration | Figma, Canva, PowerPoint, Git, GitHub |
 
-## Interests
+## Beyond the data
 
-Operations analytics, financial systems, sports analytics, business intelligence, and data engineering.
+Outside of work, I follow the Raiders and Warriors, play soccer, basketball, and golf, lift weights, explore different cultures through travel, make Neapolitan pizza, and spend far too much time dialing in espresso at home.
 
----
+## Connect
 
-I am currently developing the projects and technical depth documented on this profile. My portfolio website and additional case studies are coming soon.
+[Portfolio](https://yuvrajriyar.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yuvrajriyar) · [Email](mailto:ysriyar30@gmail.com)
