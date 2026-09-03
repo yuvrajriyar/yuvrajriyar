@@ -20,7 +20,7 @@ Collaborated on an analysis of more than 11,000 NBA player-season records and 26
 
 **Tools:** R, tidyverse, caret, randomForest, XGBoost, ggplot2
 
-### Soaring Roadlines Dispatch System
+### Soaring Eagle Dispatch System
 
 Built an internal analytics application that consolidates transportation operations data and supports faster, more consistent planning decisions.
 
