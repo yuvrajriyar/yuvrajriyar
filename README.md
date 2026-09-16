@@ -8,6 +8,12 @@ I am a UC Davis Applied Statistics graduate and an impact-driven self-starter wh
 
 ## Featured work
 
+### [EstateFlow — Housing Market Analytics Pipeline](https://github.com/yuvrajriyar/EstateFlow)
+
+Building an end-to-end pipeline that transforms Zillow home-value and rent data into validated ZIP-month market metrics. The current workflow includes Python profiling and reshaping, PostgreSQL staging and modelling, reconciliation, and data-quality checks, with Power BI reporting next.
+
+**Tools:** Python, pandas, PostgreSQL, SQL, Docker, data-quality testing
+
 ### [ProTech — Athlete Performance Platform](https://github.com/AggieSportsAnalytics/ProTech)
 
 Helped build and present an athlete-performance platform for UC Davis Football. I contributed to project coordination, data workflows, validation, visualization, and front-end development.
@@ -25,12 +31,6 @@ Collaborated on an analysis of more than 11,000 NBA player-season records and 26
 Built an internal analytics application that consolidates transportation operations data and supports faster, more consistent planning decisions.
 
 **Tools:** Python, Streamlit, SQLite, Pandas
-
-### [EstateFlow — Housing Market Analytics Pipeline](https://github.com/yuvrajriyar/EstateFlow)
-
-Building an end-to-end pipeline that transforms Zillow home-value and rent data into validated ZIP-month market metrics. The current workflow includes Python profiling and reshaping, PostgreSQL staging and modelling, reconciliation, and data-quality checks, with Power BI reporting next.
-
-**Tools:** Python, pandas, PostgreSQL, SQL, Docker, data-quality testing
 
 ## Technical toolkit
 
