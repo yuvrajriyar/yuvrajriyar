@@ -26,9 +26,11 @@ Built an internal analytics application that consolidates transportation operati
 
 **Tools:** Python, Streamlit, SQLite, Pandas
 
-### Financial Data Pipeline — In Development
+### [EstateFlow — Housing Market Analytics Pipeline](https://github.com/yuvrajriyar/EstateFlow)
 
-Developing an end-to-end reconciliation pipeline while strengthening my work in SQL, ETL, orchestration, and data-quality testing.
+Building an end-to-end pipeline that transforms Zillow home-value and rent data into validated ZIP-month market metrics. The current workflow includes Python profiling and reshaping, PostgreSQL staging and modelling, reconciliation, and data-quality checks, with Power BI reporting next.
+
+**Tools:** Python, pandas, PostgreSQL, SQL, Docker, data-quality testing
 
 ## Technical toolkit
 
