@@ -12,7 +12,7 @@ I earned a **B.S. in Statistics (Applied)** with a minor in **Managerial Economi
 
 An end-to-end project moving Zillow home-value and rent data through Python and PostgreSQL into a three-page Power BI report. It includes a national market view, a state and metro explorer, and a guide to reading the measures and their limitations.
 
-![EstateFlow national housing market Power BI dashboard](https://raw.githubusercontent.com/yuvrajriyar/EstateFlow/main/docs/images/estateflow-national-market.png)
+
 
 **Python · pandas · PostgreSQL · SQL · Power BI · Docker**
 
