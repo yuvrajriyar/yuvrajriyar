@@ -1,6 +1,6 @@
 # Yuvraj Riyar
 
-**Applied Statistics · Data & business analytics · Operations**
+**Applied Statistics · Data & business analytics · Finance**
 
 I earned a **B.S. in Statistics (Applied)** with a minor in **Managerial Economics** from UC Davis. I work across analytics, financial and operational analysis, dashboards, and data workflows, with a particular interest in making analysis useful to the people making decisions.
 
