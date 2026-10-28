@@ -30,9 +30,17 @@ Worked with Aggie Sports Analytics on a UC Davis Football platform that brings m
 
 **React · Supabase · PostgreSQL · Chart.js · Recharts**
 
+### [PRISM · Technology for local businesses](https://prism-75v.pages.dev)
+
+A founding-stage technology venture focused on understanding how a local business operates and building one useful improvement around the people doing the work. I have built the public website, visual identity and a five-step browser-based discovery tool that turns an initial idea into an editable, downloadable brief. The first pilot remains in planning, so prior project results are not presented as PRISM client outcomes.
+
+[**Visit PRISM →**](https://prism-75v.pages.dev) · [Progress case study](https://yuvrajriyar.vercel.app/projects/prism)
+
+**React · TypeScript · Vite · WebGL · Product discovery**
+
 ### [Dispatch Command Centre](https://yuvrajriyar.vercel.app/projects/dispatch-command-centre)
 
-At **Soaring Roadlines Inc.**, built a Python and Streamlit dispatch application that consolidates ETAs, empty dates, and backhaul priorities across a 20-truck fleet. It cut routine fleet-tracking time by roughly half and supported more focused daily reviews.
+During my internship at **Soaring Eagle Roadlines**, I used an AI-assisted development workflow to build a Python and Streamlit dispatch application that consolidated ETAs, empty dates, and backhaul priorities across a 20-truck fleet. In my own use, it reduced routine tracking time by an estimated 50% and supported more focused daily reviews.
 
 **Python · Streamlit · SQLite · pandas**
 
